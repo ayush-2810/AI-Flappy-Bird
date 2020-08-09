@@ -1,3 +1,3 @@
 # AI-Flappy-Bird
 
-neatflappy.txt file 
+This is a repository of flappy bird game AI using NEAT library.
