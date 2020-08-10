@@ -1,3 +1,4 @@
-# AI-Flappy-Bird
+# NEAT-Flappy-Bird
 
-This is a repository of flappy bird game made in AI using **NEAT**(NeuroEvolution of Augmenting Topologies) library.
+This is a repository in which AI play the flappy bird game using **NEAT**(NeuroEvolution of Augmenting Topologies) library.  
+
