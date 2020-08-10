@@ -1,4 +1,4 @@
-image:
+image: gitpod/workspace-full-vnc
   file: .gitpod.Dockerfile
 tasks:
   - init: pip3 install -r requirements.txt
