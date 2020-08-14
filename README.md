@@ -4,7 +4,7 @@ This is a repository in which **AI** play the **flappy bird** game using **NEAT*
 
 To see the project -:  
  - Press on the below button.  
- - Wait 
+ - Wait for setpu to get ready.
  - Open any port from port option after setup is done.
   
   
